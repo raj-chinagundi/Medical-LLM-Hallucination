@@ -2,6 +2,15 @@
 
 A comprehensive evaluation framework for comparing Large Language Models (LLMs) in medical question-answering tasks, with a focus on detecting and measuring hallucinations using Retrieval-Augmented Generation (RAG).
 
+## GROUP MEMBERS:
+
+1)Mridul
+2)Mehek
+3)Basavraj
+4)Ajesh
+5)Kanish
+6)Vaibhav
+
 ## Overview
 
 This project implements an automated evaluation pipeline to compare **Google Gemini** and **Llama 3** models in generating medical advice responses. The system uses a hybrid retrieval approach combining BM25 and FAISS vector similarity to ground responses in factual medical literature from PubMed.
