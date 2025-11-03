@@ -4,12 +4,12 @@ A comprehensive evaluation framework for comparing Large Language Models (LLMs) 
 
 ## GROUP MEMBERS:
 
-1)Mridul
-2)Mehek
-3)Basavraj
-4)Ajesh
-5)Kanish
-6)Vaibhav
+1)Mridul <br>
+2)Mehek <br>
+3)Basavraj <br>
+4)Ajesh <br> 
+5)Kanish <br>
+6)Vaibhav <br>
 
 ## Overview
 
