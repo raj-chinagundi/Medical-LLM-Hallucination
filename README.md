@@ -1,4 +1,4 @@
-# Medical LLM Hallucination Detection and Evaluation
+# Group 4 - CSE 543 Medical LLM Hallucination Detection and Evaluation
 
 A comprehensive evaluation framework for comparing Large Language Models (LLMs) in medical question-answering tasks, with a focus on detecting and measuring hallucinations using Retrieval-Augmented Generation (RAG).
 
